@@ -4,3 +4,9 @@ body {
     color: #88C639;
     font-size: 40px;
 }
+
+.img-style {
+    border-radius: 15px;
+    border: 5px solid #88C639;
+    max-width: 70vw;
+}

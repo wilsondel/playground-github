@@ -6,4 +6,6 @@ Nowadays, I am studying systems engineering. I have great interest in backend de
 
 Master 1
 
+Master 2
+
 I know about some ML algorithms like linear and logistic regression, decision tree,random forest, KNN, ANN. KNN can also be used for data preprocessing.

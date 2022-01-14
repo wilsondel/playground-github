@@ -1,2 +1,2 @@
 # playground-github
-Testing some functionalities of github
+Testing some functionalities of github and git commands.

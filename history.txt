@@ -13,3 +13,5 @@ Master 1
 Master 2
 
 I know about some ML algorithms like linear and logistic regression, decision tree,random forest, KNN, ANN. KNN can also be used for data preprocessing.
+
+It is great when you create projects using the ML algorithms.
